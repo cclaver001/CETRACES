@@ -1,2 +1,2 @@
 # CETRACES
-A molecular toolkit for integrating eDNA and visual sightings to jointly estimate cetacean abundance in the Bay of Biscay.
+A molecular toolkit for enhancing cetacean monitoring in the Bay of Biscay.
