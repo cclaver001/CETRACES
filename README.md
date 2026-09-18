@@ -22,8 +22,8 @@ Scripts used for raw data (available at SRA under Bioproject XXXXX) preparation 
 ## Visual and dPCR data processing
 
 *Spatial gridding and zonation of data:*
+- Data_processing_visualization.R (cleans visual and molecular (dPCR) datasets. Maps effort and detections across the study area)
 - Standardization_visu_molecular.R (builds a spatial grid, assigns visual and molecular observations to each cell, computes encounter and detection rates and maps those metrics)
-- Data_visualization_processing.R (cleans visual and molecular (dPCR) datasets. Maps effort and detections across the study area)
 
 ## Modelling
 
