@@ -19,7 +19,10 @@ Scripts used for raw data (available at SRA under Bioproject XXXXX) preparation 
 - 3.script_tax_assignment.sh
 - Input files are outputted from previous step
 
-## Visual and dPCR data processing
+*Visualization of results:*
+- Plot_mock_eDNA_samples.R
+
+## Sighting and dPCR data processing
 
 *Spatial gridding and zonation of data:*
 - Data_processing_visualization.R (cleans visual and molecular (dPCR) datasets. Maps effort and detections across the study area)
