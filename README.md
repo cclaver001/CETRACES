@@ -33,6 +33,7 @@ Scripts used for raw data (available at SRA under Bioproject XXXXX) preparation 
 - joint_eDNA_signtings.stan (biomass estimation model based on both molecular and sightings data combined)
 
 *Visualization*
+
 These scripts prepare sightings and molecular data, fit three models for each species, visualize and compare posterior abundance estimates. 
 - modeling_dolphins.R
 - modeling_fin_whales.R
